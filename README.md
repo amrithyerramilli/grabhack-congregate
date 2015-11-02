@@ -1,5 +1,5 @@
 # grab **hack**-congregate
-The repo that links all the parts of our *grab **hack***.
+The repo that links all the parts of our grab **hack**.
 
 # [grab-kart-api](https://github.com/anirudhkkw/grabhack-kart)
 * An API built with ROR to fetch product listing ads using Flipkart's Affiliate API
